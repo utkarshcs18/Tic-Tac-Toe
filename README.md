@@ -16,13 +16,9 @@ A classic two-player (X vs O) browser game.
 
 Features:
 
-✅ User vs User (local play)
+. User vs User (local play)
 
-🏆 Win & Draw detection
-
-💚 Highlighted winning pattern
-
-🔁 Reset and New Game functionality
+. Win & Draw detection
 
 No frameworks, no libraries — just pure HTML, CSS, and JavaScript.
 
