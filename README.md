@@ -8,6 +8,7 @@ Just a small project I made while learning DOM manipulation, logic design, and e
 ---
 
 ## Project Structure
+<img width="332" height="332" alt="Screenshot 2025-11-03 050348" src="https://github.com/user-attachments/assets/bdadd995-6fd6-45ee-a5bd-6e411ee237a4" />
 
 ---
 
